@@ -1,0 +1,8 @@
+{
+  "id": "my_character_id",
+  "name": "My Custom Character",
+  "chibi": "$chibi.png",
+  "color": "#FFFFFF",
+  "poses": [],
+  "expressions": []
+}
