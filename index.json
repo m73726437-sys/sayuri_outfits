@@ -3,6 +3,39 @@
   "name": "My Custom Character",
   "chibi": "$chibi.png",
   "color": "#FFFFFF",
-  "poses": [],
-  "expressions": []
+  "poses": [
+     { 
+       "name": "swimsuit",
+            "style": "swimsuit",
+            "compatibleHeads": [
+                "straight" 
+],
+            "left": [
+                "swimsuit/1l.png",
+                "swimsuit/2l.png",
+
+            ],
+            "right": [
+                "swimsuit/1r.png",
+                "swimsuit/2r2.png", 
+                
+
+            ]
+        },
+        {
+        
+
+
+
+
+
+
+              
+  ],
+  "expressions": [
+
+
+
+    
+  ]
 }
