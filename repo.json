@@ -1,11 +1,9 @@
 {
-  "packs": [
-    {
-      "name": "Sayuri @ sayonika outfits",
-      "id": "sayuri-dddg.",
-      "url": "https://github.com/m73726437-sys/sayuri-dddg..git",
-      "type": "character" 
-      "headInForeground": true,
-    }
-  ]
+  "packId": "your.unique.packname",
+  "name": "Display Name of Your Pack",
+  "author": "Your Name",
+  "description": "A brief description of your content",
+  "tags": ["Character", "Sprite"],
+  "version": 1,
+  "download": "https://url-to-your-pack/index.json"
 }
