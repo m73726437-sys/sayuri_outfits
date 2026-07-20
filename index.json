@@ -22,7 +22,11 @@
 
             ]
         },
-        {
+       { 
+         "name": "sayuri",
+            "style": "sayuri",
+            "compatibleHeads": [
+                "straight"   
         
 
 
