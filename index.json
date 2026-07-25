@@ -4,31 +4,32 @@
   "chibi": "$chibi.png",
   "color": "#FFFFFF",   
   "headInForeground": true
-  "left": ["1r.png", "2r.png"],
-  "right": ["1l.png", "2l.png"]
+  "left": ["sayuri/1r.png", "sayuri/2r.png"],
+  "right": ["sayuri/1l.png", "sayuri/2l.png"]
   "heads": [ 
-			"a.png",
-			"a2.png",
+			"sayuri/yuri/a.png",
+			"sayuri/sayori/a2.png",
 			"b.png",
-			"b2.png",
+			"sayuri/sayori/b2.png",
 			"c.png",
-			"c2.png",
+			"sayuri/sayori/c2.png",
 			"d.png",
-			"d2.png",
+			"sayuri/sayori/d2.png",
 			"e.png",
-			"e2.png",
+			"sayuri/sayori/e2.png",
 			"f.png",
-			"f2.png",
+			"sayuri/sayori/f2.png",
 			"g.png",
-			"g2.png",
+			"sayuri/sayori/g2.png",
 			"h.png",
-			"h2.png",
+			"sayuri/sayori/h2.png",
 			"i.png",
-			"i2.png",
-			"j.png",
-			"k.png",
+			"sayuri/sayori/i2.png",
+			"j.png", 
+	        "sayuri/sayori/j2.png"
+			"sayuri/yuri/k.png",
 			"l.png",
-			"l2.png",
+			"sayuri/sayori/l2.png",
 			"m.png",
 			"m2.png",
 			"n.png",
@@ -36,25 +37,25 @@
 			"o.png",
 			"o2.png",
 			"p.png",
-			"p2.png",
-			"q.png",
-			"q2.png",
+			"sayuri/sayori/p2.png",
+			"sayuri/yuri/q.png",
+			"sayuri/sayori/q2.png",
 			"r.png",
 			"r2.png",
 			"s.png",
-			"s2.png",
+			"sayuri/sayori/s2.png",
 			"t.png",
-			"t2.png",
+			"sayuri/sayori/t2.png",
 			"u.png",
-			"u2.png",
-			"v.png",
-			"v2.png",
-			"w.png",
-			"w2.png",
-			"x.png",
-			"x2.png",
-			"y.png",
-			"y2.png" 
+			"sayuri/sayori/u2.png",
+			"sayuri/yuri/v.png",
+			"sayuri/sayori/v2.png",
+			"sayuri/yuri/w.png",
+			"sayuri/sayori/w2.png",
+			"sayuri/yuri/x.png",
+			"sayuri/sayori/x2.png",
+			"sayuri/yuri/y.png",
+			"sayuri/sayori/y2.png" 
            ]          
   "poses": [
      { 
@@ -66,14 +67,16 @@
             "left": [
                 "swimsuit/1l.png",
                 "swimsuit/2l.png",
-
+                "Sayonika/1_base" 
+				
             ],
             "right": [
                 "swimsuit/1r.png",
                 "swimsuit/2r2.png", 
-                
-
-            ]
+                "Sayonika/2r1_base.png"
+                "Sayonika/2r2_base.png"
+				
+			 ],
         },
-  
+         
 
