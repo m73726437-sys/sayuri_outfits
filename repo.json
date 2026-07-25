@@ -3,7 +3,9 @@
   "name": "Display Name of Your Pack",
   "author": "Your Name",
   "description": "A brief description of your content",
-  "tags": ["sayuri", "Sayonika", "proto", "swimsuit", "winter"] 
+  "tags": ["sayuri", "Sayonika", "proto", "swimsuit", "winter"]  
+  "left": ["1r.png", "2r.png"],
+  "right": ["1l.png", "2l.png"]
   "heads": [ 
 			"a.png",
 			"a2.png",
