@@ -2,9 +2,10 @@
   "id": "my_character_id",
   "name": "My Custom Character",
   "chibi": "$chibi.png",
-  "color": "#FFFFFF",  
+  "color": "#FFFFFF",   
+  "headInForeground": true
   "left": ["1r.png", "2r.png"],
-	"right": ["1l.png", "2l.png"]
+  "right": ["1l.png", "2l.png"]
   "heads": [ 
 			"a.png",
 			"a2.png",
