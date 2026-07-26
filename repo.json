@@ -4,7 +4,10 @@
   "author": "Your Name",
   "description": "A brief description of your content",
   "tags": ["sayuri", "Sayonika", "swimsuit"]  
-  "version": 1, 
+  "version": 1,  
+  "preview": [
+            "sayuri/sayori/j2.png",
+            "sayuri/4.png" 
   "headInForeground": true
   "download": "https://github.com/m73726437-sys/sayuri_outfits.git/repo.json"
 }
