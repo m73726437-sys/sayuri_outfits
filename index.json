@@ -1,6 +1,6 @@
 {
-  "id": "my_character_id",
-  "name": "My Custom Character",
+  "id": "sayuri_outfits",
+  "name": "sayuri_outfits",
   "chibi": "$chibi.png",
   "color": "#FFFFFF",   
   "headInForeground": true
