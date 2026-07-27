@@ -3,7 +3,7 @@
   "characters": ["Sayuri"],
   "name": "sayuri and outfits",
   "author": "m73726437-sys", 
-  "dddg2Path": "sayuri_outfits/index.json",
+  "dddg2Path": "./index.json",
   "description": "A brief description of your content",
   "tags": ["sayuri", "Sayonika", "swimsuit"]  
   "preview": [
