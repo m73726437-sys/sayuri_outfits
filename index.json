@@ -140,7 +140,7 @@
 
         }
     ]
-}
+
 "packId": "sayuri_outfits",
     "styles": [
         {
@@ -169,9 +169,9 @@
             ]
         },
 
-        }
+		}
     ]
-} 
+ 
 "packId": "sayuri_outfits",
     "styles": [
         {
@@ -201,6 +201,6 @@
             ]
         },
 
-       }
+       
     ]
- }
+ 
