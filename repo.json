@@ -7,9 +7,9 @@
   "description": "A brief description of your content",
   "tags": ["sayuri", "Sayonika", "swimsuit"]  
   "preview": [
-            "sayuri/yuri/a.png",
-            "sayuri/1l.png", 
-            "sayuri/1r.png", 
+            "./a.png",
+            "./1l.png", 
+            "./1r.png", 
              ]
   "version": 1, 
   "headInForeground": true
