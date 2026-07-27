@@ -1,12 +1,30 @@
-{
-  "id": "sayuri_outfits",
+{  
+  "$schema": "https://raw.githubusercontent.com/m73726437-sys/sayuri_outfits/refs/heads/main/index.json?token=GHSAT0AAAAAAEDCXI2HI3AVUBADLEV3K5LO2TGG5JQ"
+  "kind": [
+            "Characters"
+  "id": "m73726437-sys",
   "name": "sayuri_outfits",
-  "chibi": "$chibi.png",
-  "color": "#FFFFFF",   
-  "headInForeground": true
-  "left": ["sayuri/1r.png", "sayuri/2r.png"],
-  "right": ["sayuri/1l.png", "sayuri/2l.png"]
-  "heads": [ 
+  "chibi": "./$chibi.png",
+  "color": "#FFFFFF", 
+  "internalId": "sayuri and outfits",
+  "styles": [
+        {
+            "name": "Sayonika",
+            "label": "Prom"
+        },
+        {
+            "name": "winter",
+            "name": "proto" 
+            "label": "proto" 
+            "label": "winter"
+            "name": "swimsuit" 
+            "label": "Swimsuit"
+        }
+    ],
+  "left": ["./1r.png", "./2r.png"],
+  "right": ["./1l.png", "./2l.png"],
+  "heads": {  
+             "default": [         
 			"sayuri/yuri/a.png",
 			"sayuri/sayori/a2.png",
 			"b.png",
@@ -26,7 +44,7 @@
 			"i.png",
 			"sayuri/sayori/i2.png",
 			"j.png", 
-	        "sayuri/sayori/j2.png"
+	                "sayuri/sayori/j2.png",
 			"sayuri/yuri/k.png",
 			"l.png",
 			"sayuri/sayori/l2.png",
@@ -56,27 +74,139 @@
 			"sayuri/sayori/x2.png",
 			"sayuri/yuri/y.png",
 			"sayuri/sayori/y2.png" 
-           ]          
+                        ],          
+  "poses": [
+     { 
+       "name": "sweatshirt",
+            "style": "sweatshirt",
+            "compatibleHeads": [
+                "default" 
+],
+            "left": [ 
+                "./1dl.png",
+                "./2dl.png", 
+				
+            ],
+            "right": [ 
+                "./1dr.png", 
+                "./2dr.png"				
+			 ],
+        },
   "poses": [
      { 
        "name": "swimsuit",
             "style": "swimsuit",
             "compatibleHeads": [
-                "straight" 
+                "default" 
 ],
-            "left": [
-                "swimsuit/1l.png",
-                "swimsuit/2l.png",
-                "Sayonika/1_base" 
+            "left": [ 
+                "./1l.png",
+                "./2l.png", 
 				
             ],
-            "right": [
-                "swimsuit/1r.png",
-                "swimsuit/2r2.png", 
-                "Sayonika/2r1_base.png"
-                "Sayonika/2r2_base.png"
-				
+            "right": [ 
+                "./1r.png", 
+                "./2r2.png", 
+                "./2r1.png"				
 			 ],
         },
+         
+
+"packId": "sayuri_outfits",
+    "styles": [
+        {
+            "name": "green_swimsuit",
+            "label": "swimsuit"
+        }
+    ],
+    "heads": {},
+    "poses": [
+        {
+            "name": "swimsuit",
+            "style": "swimsuit",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "left": [
+                "./1l.png",
+                "./2l.png",
+                
+               
+            ],
+            "right": [
+                "./1r.png", 
+                "./2r1.png"
+                "./2r2.png"
+            ]
+        },
+
+        }
+    ]
+},
+
+"packId": "sayuri_outfits",
+    "styles": [
+        {
+            "name": "green_swimsuit",
+            "label": "swimsuit"
+        }
+    ],
+    "heads": {},
+    "poses": [
+        {
+            "name": "winter",
+            "style": "winter",
+            "compatibleHeads": [
+                "default"
+            ],
+            "left": [
+                "./1l.png",
+                "./2l.png",
+                
+               
+            ],
+            "right": [
+                "./1r.png", 
+                "./2r.png",
+                "./3.png"
+            ]
+        },
+
+        }
+    ]
+}, 
+
+"packId": "sayuri_outfits",
+    "styles": [
+        {
+            "name": "green_swimsuit",
+            "label": "swimsuit"
+        }
+    ],
+    "heads": {},
+    "poses": [
+        {
+            "name": "Sayonika",
+            "style": "Prom",
+            "compatibleHeads": [
+                "default"
+            ],
+            "left": [
+                "./1l_base.png",
+                "./2l_base.png",
+                
+               
+            ],
+            "right": [
+                "./1r_base.png", 
+                "./2r1_base.png",
+                "./2r2_base.png",
+                "./3_base.png"
+            ]
+        },
+
+        }
+    ]
+},
          
 
