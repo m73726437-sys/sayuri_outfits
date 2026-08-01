@@ -1,14 +1,14 @@
 { 
       "pack": {         
-            "packId": "sayuri_outfits", 
+            "packid": "sayuri_outfits", 
             "characters": ["Sayuri"],
             "name": "sayuri_outfits",
             "author": "credits to there orignal owners"
-            "dddg2Path": "https://github.com/m73726437-sys/sayuri_outfits/index.json"
+            "dddg2path": "https://github.com/m73726437-sys/sayuri_outfits/index.json"
             "description": "A brief description of your content",
             "tags": ["sayuri", "Sayonika", "swimsuit"] 
             "version": 1, 
-            "headInForeground": true 
+            "headinforeground": true 
             "id": "sayuri_outfits",
             "repoUrl": "https://m73726437-sys.github.io/sayuri_outfits/repo.json" 
             "preview": [
