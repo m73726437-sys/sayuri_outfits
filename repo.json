@@ -1,20 +1,31 @@
-{ 
-      "pack": {         
-            "packid": "sayuri_outfits", 
-            "characters": ["Sayuri"],
-            "name": "sayuri_outfits",
-            "author": "credits to there orignal owners"
-            "dddg2path": "https://github.com/m73726437-sys/sayuri_outfits/repo.json"
-            "description": "A brief description of your content",
-            "tags": ["sayuri", "Sayonika", "swimsuit"] 
-            "version": 1, 
-            "headinforeground": true 
-            "id": "sayuri_outfits",
-            "repourl": "https://m73726437-sys.github.io/sayuri_outfits/repo.json" 
-            "preview": [
-            "https://github.com/m73726437-sys/sayuri_outfits/sayuri/sayori/.png",
-            "https://github.com/m73726437-sys/sayuri_outfits/sayuri/4.png"
-            ]
-   }
+{
+    "pack": {
+        "characters": [
+            "Sayuri"
+        ],
+        "kind": [
+            "Characters"
+        ], 
+        "tags": ["sayuri", "Sayonika", "swimsuit"] 
+        "authors": [
+            "u/hoeruko",
+            "Iansuller_blogger",
+            "u/itz_matic"
+        ],
+        "dddg2Path": "./index.json",
+        "description": "[ Created in july 2026 ]",
+        "id": "sayuri_outfits",
+        "name": "Sayuri",
+        "preview": [
+            "sayuri/4.png",
+            "sayuri/sayori/a2.png"
+        ],
+        "searchWords": [],
+        "repoUrl": "https://github.com/m73726437-sys/sayuri_outfits/repo.json"
+    },
+    "authors": {
+        "u/hoeruko": {},
+        "Iansuller_blogger": {},
+        "u/itz_matic": {}
+    }
 }
-
