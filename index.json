@@ -6,13 +6,13 @@
   "id": "sayuri_outfits",
   "name": "sayuri_outfits",
   "chibi": "./$chibi.png", 
-  "internalId": "sayuri and outfits",
+  "internalid": "sayuri and outfits",
   "styles": [
         {   
 			"name": "uniform" 
 		    "label": "uniform"
-            "name": "Sayonika",
-            "label": "Prom"  
+            "name": "sayonika",
+            "label": "prom"  
 			"name": "swimsuit"
 			"label": "green_swimsuit"
         },
@@ -22,7 +22,7 @@
             "label": "proto" 
             "label": "sweater"
             "name": "swimsuit" 
-            "label": "Swimsuit"
+            "label": "swimsuit"
         }
     ],
   "heads": {  
@@ -160,7 +160,7 @@
         {
             "name": "Sayonika",
             "style": "Prom",
-            "compatibleHeads": [
+            "compatibleheads": [
                 "default"
             ],
             "left": [
