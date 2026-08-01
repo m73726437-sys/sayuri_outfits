@@ -3,13 +3,13 @@
   "characters": ["Sayuri"],
   "name": "sayuri and outfits",
   "author": "m73726437-sys", 
-  "dddg2Path": "./index.json",
+  "dddg2Path": "https://github.com/m73726437-sys/sayuri_outfits/index.json",
   "description": "A brief description of your content",
   "tags": ["sayuri", "Sayonika", "swimsuit"]  
   "preview": [
-            "./a2.png",
-            "./1l.png", 
-            "./1r.png", 
+            "https://github.com/m73726437-sys/sayuri_outfits/sayuri/sayori/a2.png",
+            "https://github.com/m73726437-sys/sayuri_outfits/sayuri/1l.png", 
+            "https://github.com/m73726437-sys/sayuri_outfits/sayuri/1r.png", 
              ]
   "version": 1, 
   "headInForeground": true
