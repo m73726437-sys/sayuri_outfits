@@ -121,7 +121,7 @@
     ],
     "heads": {},
     "packid": "swimsuit",
-        {
+         [
             "name": "swimsuit",
             "style": "swimsuit",
             "compatibleheads": [
@@ -143,11 +143,7 @@
         
     
 
-    "heads": {},
 
-		
-    ]
- 
 "packId": "sayuri_outfits",
     "styles": [
         {
