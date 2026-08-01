@@ -1,18 +1,18 @@
 {
-  "packId": "sayuri_outfits", 
-  "characters": ["Sayuri"],
-  "name": "sayuri_outfits",
-  "author": "m73726437-sys", 
-  "dddg2Path": "https://github.com/m73726437-sys/sayuri_outfits/index.json",
-  "description": "A brief description of your content",
-  "tags": ["sayuri", "Sayonika", "swimsuit"]  
-  "preview": [
+"packId": "sayuri_outfits", 
+"characters": ["Sayuri"],
+"name": "sayuri_outfits",
+"author": "m73726437-sys", 
+"dddg2Path": "https://github.com/m73726437-sys/sayuri_outfits/index.json",
+"description": "A brief description of your content",
+"tags": ["sayuri", "Sayonika", "swimsuit"]  
+"preview": [
             "https://github.com/m73726437-sys/sayuri_outfits/sayuri/sayori/a2.png",
             "https://github.com/m73726437-sys/sayuri_outfits/sayuri/1l.png", 
             "https://github.com/m73726437-sys/sayuri_outfits/sayuri/1r.png", 
-             ]
-  "version": 1, 
-  "headInForeground": true
-  "source": "https://github.com/m73726437-sys/sayuri_outfits.git/repo.json"
+           ]
+"version": 1, 
+"headInForeground": true
+"source": "https://github.com/m73726437-sys/sayuri_outfits.git/repo.json"
 }
 
