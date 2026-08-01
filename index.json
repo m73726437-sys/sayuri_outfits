@@ -1,12 +1,11 @@
 {  
   "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json"
   "kind": [
-            "Characters" 
+            "characters" 
   ],
   "id": "sayuri_outfits",
   "name": "sayuri_outfits",
-  "chibi": "./$chibi.png",
-  "color": "#FFFFFF", 
+  "chibi": "./$chibi.png", 
   "internalId": "sayuri and outfits",
   "styles": [
         {
@@ -113,7 +112,7 @@
                 "./2r1.png"				
 			 ],
 
-"packId": "sayuri_outfits",
+"packid": "sayuri_outfits",
     "styles": [
         {
             "name": "green_swimsuit",
@@ -121,56 +120,30 @@
         }
     ],
     "heads": {},
-    "poses": [
+    "packid": "swimsuit",
         {
             "name": "swimsuit",
             "style": "swimsuit",
-            "compatibleHeads": [
+            "compatibleheads": [
                 "straight"
             ],
             "left": [
-                "./1l.png",
-                "./2l.png",
+                "swimsuit/1l.png",
+                "swimsuit/2l.png",
                 
                
             ],
             "right": [
-                "./1r.png", 
-                "./2r1.png"
-                "./2r2.png"
+                "swimsuit/1r.png", 
+                "swimsuit/2r1.png"
+                "swimsuit/2r2.png"
             ]
-        },
+		 ],
 
         
-    ]
+    
 
-"packId": "sayuri_outfits",
-    "styles": [
-        {
-            "name": "green_swimsuit",
-            "label": "swimsuit"
-        }
-    ],
     "heads": {},
-    "poses": [
-        {
-            "name": "winter",
-            "style": "winter",
-            "compatibleHeads": [
-                "default"
-            ],
-            "left": [
-                "./1l.png",
-                "./2l.png",
-                
-               
-            ],
-            "right": [
-                "./1r.png", 
-                "./2r.png",
-                "./3.png"
-            ]
-        },
 
 		
     ]
@@ -206,7 +179,7 @@
 
        
     ]
-"styleGroups": [
+"stylegroups": [
                 {
                     "id": "uniform",
                     "styles": [
