@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json"
   "kind": [
             "characters" 
-  ],
+  ]
   "id": "sayuri_outfits",
   "name": "sayuri_outfits",
   "chibi": "./$chibi.png", 
