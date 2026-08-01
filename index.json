@@ -8,7 +8,9 @@
   "chibi": "./$chibi.png", 
   "internalId": "sayuri and outfits",
   "styles": [
-        {
+        {   
+			"name": "uniform" 
+		    "label": "uniform"
             "name": "Sayonika",
             "label": "Prom"  
 			"name": "swimsuit"
@@ -18,13 +20,11 @@
             "name": "sweater",
             "name": "proto" 
             "label": "proto" 
-            "label": "winter"
+            "label": "sweater"
             "name": "swimsuit" 
             "label": "Swimsuit"
         }
     ],
-  "left": ["./1r.png", "./2r.png"],
-  "right": ["./1l.png", "./2l.png"],
   "heads": {  
              "default": [         
 			"sayuri/yuri/a.png",
