@@ -1,8 +1,8 @@
 {  
-  "$schema": "https://raw.githubusercontent.com/m73726437-sys/sayuri_outfits/refs/heads/main/index.json?token=GHSAT0AAAAAAEDCXI2HI3AVUBADLEV3K5LO2TGG5JQ"
+  "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json"
   "kind": [
             "Characters"
-  "id": "m73726437-sys",
+  "id": "sayuri_outfits",
   "name": "sayuri_outfits",
   "chibi": "./$chibi.png",
   "color": "#FFFFFF", 
@@ -10,10 +10,12 @@
   "styles": [
         {
             "name": "Sayonika",
-            "label": "Prom"
+            "label": "Prom"  
+			"name": "swimsuit"
+			"label": "green_swimsuit"
         },
         {
-            "name": "winter",
+            "name": "sweater",
             "name": "proto" 
             "label": "proto" 
             "label": "winter"
@@ -203,4 +205,209 @@
 
        
     ]
- 
+"styleGroups": [
+                {
+                    "id": "uniform",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                    "compatibleHeads": [
+                                        "left"
+                                    ],
+                                    "id": "left",
+                                    "renderCommands": [
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Variant"
+                                        },
+                                        {
+                                            "type": "head"
+                                        }
+                                    ],
+                                    "positions": {
+                                        "Variant": [
+                                            [
+                                                "sayuri/1l.png" 
+												"sayuri/1r.png"
+                                            ],
+                                            [
+                                                "sayuri/2l.png" 
+												"sayuri/2r.png"
+                                            ],
+                                            [
+                                                "sayuri/4.png"
+                                            ],
+                                            [
+                                                "sayuri/3.png"
+                                            ],
+                                        ]
+                                    }
+                                },
+                                {
+                                    "compatibleHeads": [
+                                        "middle"
+                                    ],
+                                    "id": "middlee",
+                                    "renderCommands": [
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Variant"
+                                        },
+                                        {
+                                            "type": "head"
+                                        }
+                                    ],
+                                    "positions": {
+                                        "Variant": [
+                                            [
+                                                "sayuri/42.png"
+                                            ],
+                                            [
+                                                "sayuri/32.png"
+                                            ],
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "casual",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                    "compatibleHeads": [
+                                        "left"
+                                    ],
+                                    "id": "left",
+                                    "renderCommands": [
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Variant"
+                                        },
+                                        {
+                                            "type": "head"
+                                        }
+                                    ],
+                                    "positions": {
+                                        "Variant": [
+                                            [
+                                                "sayuri/1bl.png" 
+												"sayuri/1br.png"
+                                            ],
+                                            [
+                                                "sayuri/2bl.png" 
+												"sayuri/2br.png"
+                                            ],
+                                            [
+                                                "sayuri/4b.png"
+                                            ],
+                                            [
+                                                "sayuri/3b.png"
+                                            ],
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "swimsuit",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                    "compatibleHeads": [
+                                        "left"
+                                    ],
+                                    "id": "left",
+                                    "renderCommands": [
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Variant"
+                                        },
+                                        {
+                                            "type": "head"
+                                        }
+                                    ],
+                                    "positions": {
+                                        "Variant": [
+                                            [
+                                                "./1c.png"
+                                            ],
+                                            [
+                                                "./2c.png"
+                                            ],
+                                            [
+                                                "./3c.png"
+                                            ],
+                                            [
+                                                "./4c.png"
+                                            ],
+                                            [
+                                                "./5c.png"
+                                            ],
+                                            [
+                                                "./6c.png"
+                                            ]
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "hoodle",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                    "compatibleHeads": [
+                                        "left"
+                                    ],
+                                    "id": "left",
+                                    "renderCommands": [
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Variant"
+                                        },
+                                        {
+                                            "type": "head"
+                                        }
+                                    ],
+                                    "positions": {
+                                        "Variant": [
+                                            [
+                                                "./1d.png"
+                                            ],
+                                            [
+                                                "./2d.png"
+                                            ],
+                                            [
+                                                "./3d.png"
+                                            ],
+                                            [
+                                                "./4d.png"
+                                            ],
+                                            [
+                                                "./5d.png"
+                                            ],
+                                            [
+                                                "./6d.png"
+                                            ]
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+} 
