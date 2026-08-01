@@ -1,6 +1,6 @@
 { 
-   "pack": {         
-   "packId": "sayuri_outfits", 
+      "pack": {         
+            "packId": "sayuri_outfits", 
             "characters": ["Sayuri"],
             "name": "sayuri_outfits",
             "author": "m73726437-sys", 
@@ -14,6 +14,7 @@
             "version": 1, 
             "headInForeground": true
             "source": "https://m73726437-sys.github.io/sayuri_outfits/repo.json" 
+            "repoUrl": "https://m73726437-sys.github.io/sayuri_outfits/repo.json"
    }
 }
 
