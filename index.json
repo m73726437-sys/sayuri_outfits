@@ -222,7 +222,7 @@
                                             "part": "Variant"
                                         },
                                         {
-                                            "type": "head"
+                                            "type": "default"
                                         }
                                     ],
                                     "positions": {
@@ -255,7 +255,7 @@
                                             "part": "Variant"
                                         },
                                         {
-                                            "type": "head"
+                                            "type": "default"
                                         }
                                     ],
                                     "positions": {
@@ -289,7 +289,7 @@
                                             "part": "Variant"
                                         },
                                         {
-                                            "type": "head"
+                                            "type": "default"
                                         }
                                     ],
                                     "positions": {
@@ -331,7 +331,7 @@
                                             "part": "Variant"
                                         },
                                         {
-                                            "type": "head"
+                                            "type": "default"
                                         }
                                     ],
                                     "positions": {
@@ -377,7 +377,7 @@
                                             "part": "Variant"
                                         },
                                         {
-                                            "type": "head"
+                                            "type": "default"
                                         }
                                     ],
                                     "positions": {
