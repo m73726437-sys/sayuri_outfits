@@ -1,81 +1,63 @@
 {  
-  "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json"
   "kind": [
             "characters" 
   ]
-  "id": "sayuri_outfits",
+  ,"id": "sayuri_outfits",
   "name": "sayuri_outfits",
-  "chibi": "./$chibi.png", 
+  "chibi": "sayuri/$chibi.png", 
   "internalid": "sayuri and outfits",
-  "styles": [
-        {   
-			"name": "uniform" 
-		    "label": "uniform"
-            "name": "swimsuit",
-            "label": "swimuit"  
-			"name": "hoodie"
-			"label": "hoodie"
-        },
-        {
-            "name": "casual" 
-            "label": "casual"
-            "name": "swimsuit" 
-            "label": "swimsuit"
-        }
-    ],
   "heads": {  
              "default": [         
 			"sayuri/yuri/a.png",
-			"sayuri/sayori/a2.png",
-			"b.png",
-			"sayuri/sayori/b2.png",
-			"c.png",
-			"sayuri/sayori/c2.png",
-			"d.png",
-			"sayuri/sayori/d2.png",
-			"e.png",
-			"sayuri/sayori/e2.png",
-			"f.png",
-			"sayuri/sayori/f2.png",
-			"g.png",
-			"sayuri/sayori/g2.png",
-			"h.png",
-			"sayuri/sayori/h2.png",
-			"i.png",
-			"sayuri/sayori/i2.png",
-			"j.png", 
-	        "sayuri/sayori/j2.png",
+			"sayuri/sayori/a.png",
+			"sayuri/yuri/b.png",
+			"sayuri/sayori/b.png",
+			"sayuri/yuri/c.png",
+			"sayuri/sayori/c.png",
+			"sayuri/yuri/d.png",
+			"sayuri/sayori/d.png",
+			"sayuri/yuri/e.png",
+			"sayuri/sayori/e.png",
+			"sayuri/yuri/f.png",
+			"sayuri/sayori/f.png",
+			"sayuri/yuri/g.png",
+			"sayuri/sayori/g.png",
+			"sayuri/yuri/h.png",
+			"sayuri/sayori/h.png",
+			"sayuri/yuri/i.png",
+			"sayuri/sayori/i.png",
+			"sayuri/yuri/j.png", 
+	        "sayuri/sayori/j.png",
 			"sayuri/yuri/k.png",
-			"l.png",
-			"sayuri/sayori/l2.png",
-			"m.png",
-			"m2.png",
-			"n.png",
-			"n2.png",
-			"o.png",
-			"o2.png",
-			"p.png",
-			"sayuri/sayori/p2.png",
+			"sayuri/yuri/l.png",
+			"sayuri/sayori/l.png",
+			"sayuri/yuri/m.png",
+			"sayuri/sayori/m.png",
+			"sayuri/yuri/n.png",
+			"sayuri/sayori/n.png",
+			"sayuri/sayori/o.png",
+			"sayuri/sayori/o.png",
+			"sayuri/yuri/p.png",
+			"sayuri/sayori/p.png",
 			"sayuri/yuri/q.png",
-			"sayuri/sayori/q2.png",
+			"sayuri/sayori/q.png",
 			"sayuri/yuri/r.png",
-			"sayuri/sayori/r2.png",
+			"sayuri/sayori/r.png",
 			"sayuri/yuri/s.png",
-			"sayuri/sayori/s2.png",
+			"sayuri/sayori/s.png",
 			"sayuri/yuri/t.png",
-			"sayuri/sayori/t2.png",
+			"sayuri/sayori/t.png",
 			"sayuri/yuri/u.png",
-			"sayuri/sayori/u2.png",
+			"sayuri/sayori/u.png",
 			"sayuri/yuri/v.png",
-			"sayuri/sayori/v2.png",
+			"sayuri/sayori/v.png",
 			"sayuri/yuri/w.png",
-			"sayuri/sayori/w2.png",
+			"sayuri/sayori/w.png",
 			"sayuri/yuri/x.png",
-			"sayuri/sayori/x2.png",
+			"sayuri/sayori/x.png",
 			"sayuri/yuri/y.png",
-			"sayuri/sayori/y2.png" 
-                        ],          
-
+			"sayuri/sayori/y.png" 
+],         
 "poses": [
                 {
                     "id": "uniform",
@@ -111,7 +93,7 @@
                                             ],
                                             [
                                                 "sayuri/3.png"
-                                            ],
+                                            ]
                                         ]
                                     }
                                 },
@@ -136,7 +118,7 @@
                                             ],
                                             [
                                                 "sayuri/32.png"
-                                            ],
+                                            ]
                                         ]
                                     }
                                 }
@@ -166,11 +148,11 @@
                                     "positions": {
                                         "Variant": [
                                             [
-                                                "sayuri/1bl.png" 
+                                                "sayuri/1bl.png", 
 												"sayuri/1br.png"
                                             ],
                                             [
-                                                "sayuri/2bl.png" 
+                                                "sayuri/2bl.png", 
 												"sayuri/2br.png"
                                             ],
                                             [
@@ -178,7 +160,7 @@
                                             ],
                                             [
                                                 "sayuri/3b.png"
-                                            ],
+                                            ]
                                         ]
                                     }
                                 }
@@ -216,10 +198,10 @@
 												"sayuri.2cr.png"
                                             ],
                                             [
-                                                "./3c.png"
+                                                "sayuri/3c.png"
                                             ],
                                             [
-                                                "./4c.png"
+                                                "sayuri/4c.png"
                                             ]
                                         ]
                                     }
@@ -251,11 +233,11 @@
                                         "Variant": [
                                             [
                                                 "sayuri/1dl.png", 
-												"sayuri/1dr.png" 
+			                                    "sayuri/1dr.png" 
                                             ],
                                             [
                                                 "sayuri/2dl.png",
-												"sayuri/2dr.png"
+						                        "sayuri/2dr.png"
                                             ],
                                             [
                                                 "sayuri/3d.png"
@@ -272,5 +254,4 @@
                 }
             ]
         }
-    ]
-}
+    }
