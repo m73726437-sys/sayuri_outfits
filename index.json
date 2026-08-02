@@ -11,16 +11,14 @@
         {   
 			"name": "uniform" 
 		    "label": "uniform"
-            "name": "sayonika",
-            "label": "prom"  
-			"name": "swimsuit"
-			"label": "green_swimsuit"
+            "name": "swimsuit",
+            "label": "swimuit"  
+			"name": "hoodie"
+			"label": "hoodie"
         },
         {
-            "name": "sweater",
-            "name": "proto" 
-            "label": "proto" 
-            "label": "sweater"
+            "name": "casual" 
+            "label": "casual"
             "name": "swimsuit" 
             "label": "swimsuit"
         }
@@ -46,7 +44,7 @@
 			"i.png",
 			"sayuri/sayori/i2.png",
 			"j.png", 
-	                "sayuri/sayori/j2.png",
+	        "sayuri/sayori/j2.png",
 			"sayuri/yuri/k.png",
 			"l.png",
 			"sayuri/sayori/l2.png",
@@ -60,13 +58,13 @@
 			"sayuri/sayori/p2.png",
 			"sayuri/yuri/q.png",
 			"sayuri/sayori/q2.png",
-			"r.png",
-			"r2.png",
-			"s.png",
+			"sayuri/yuri/r.png",
+			"sayuri/sayori/r2.png",
+			"sayuri/yuri/s.png",
 			"sayuri/sayori/s2.png",
-			"t.png",
+			"sayuri/yuri/t.png",
 			"sayuri/sayori/t2.png",
-			"u.png",
+			"sayuri/yuri/u.png",
 			"sayuri/sayori/u2.png",
 			"sayuri/yuri/v.png",
 			"sayuri/sayori/v2.png",
@@ -77,105 +75,8 @@
 			"sayuri/yuri/y.png",
 			"sayuri/sayori/y2.png" 
                         ],          
-  "poses": [
-     { 
-       "name": "sweatshirt",
-            "style": "sweatshirt",
-            "compatibleHeads": [
-                "default" 
-],
-            "left": [ 
-                "./1dl.png",
-                "./2dl.png", 
-				
-            ],
-            "right": [ 
-                "./1dr.png", 
-                "./2dr.png"				
-			 ],
-        },
-  "poses": [
-     { 
-       "name": "swimsuit",
-            "style": "swimsuit",
-            "compatibleHeads": [
-                "default" 
-],
-            "left": [ 
-                "./1l.png",
-                "./2l.png", 
-				
-            ],
-            "right": [ 
-                "./1r.png", 
-                "./2r2.png", 
-                "./2r1.png"				
-			 ],
 
-"packid": "sayuri_outfits",
-    "styles": [
-        {
-            "name": "green_swimsuit",
-            "label": "swimsuit"
-        }
-    ],
-    "heads": {},
-    "packid": "swimsuit",
-         [
-            "name": "swimsuit",
-            "style": "swimsuit",
-            "compatibleheads": [
-                "straight"
-            ],
-            "left": [
-                "swimsuit/1l.png",
-                "swimsuit/2l.png",
-                
-               
-            ],
-            "right": [
-                "swimsuit/1r.png", 
-                "swimsuit/2r1.png"
-                "swimsuit/2r2.png"
-            ]
-		 ],
-
-        
-    
-
-
-"packId": "sayuri_outfits",
-    "styles": [
-        {
-            "name": "green_swimsuit",
-            "label": "swimsuit"
-        }
-    ],
-    "heads": {},
-    "poses": [
-        {
-            "name": "Sayonika",
-            "style": "Prom",
-            "compatibleheads": [
-                "default"
-            ],
-            "left": [
-                "./1l_base.png",
-                "./2l_base.png",
-                
-               
-            ],
-            "right": [
-                "./1r_base.png", 
-                "./2r1_base.png",
-                "./2r2_base.png",
-                "./3_base.png"
-            ]
-        },
-
-       
-    ]
-"stylegroups": [
+"poses": [
                 {
                     "id": "uniform",
                     "styles": [
@@ -198,11 +99,11 @@
                                     "positions": {
                                         "Variant": [
                                             [
-                                                "sayuri/1l.png" 
+                                                "sayuri/1l.png", 
 												"sayuri/1r.png"
                                             ],
                                             [
-                                                "sayuri/2l.png" 
+                                                "sayuri/2l.png", 
 												"sayuri/2r.png"
                                             ],
                                             [
@@ -307,22 +208,18 @@
                                     "positions": {
                                         "Variant": [
                                             [
-                                                "./1c.png"
+                                                "sayuri/1cl.png", 
+												"sayuri/1cr.png"
                                             ],
                                             [
-                                                "./2c.png"
+                                                "sayuri/2cl.png", 
+												"sayuri.2cr.png"
                                             ],
                                             [
                                                 "./3c.png"
                                             ],
                                             [
                                                 "./4c.png"
-                                            ],
-                                            [
-                                                "./5c.png"
-                                            ],
-                                            [
-                                                "./6c.png"
                                             ]
                                         ]
                                     }
@@ -353,23 +250,19 @@
                                     "positions": {
                                         "Variant": [
                                             [
-                                                "./1d.png"
+                                                "sayuri/1dl.png", 
+												"sayuri/1dr.png" 
                                             ],
                                             [
-                                                "./2d.png"
+                                                "sayuri/2dl.png",
+												"sayuri/2dr.png"
                                             ],
                                             [
-                                                "./3d.png"
+                                                "sayuri/3d.png"
                                             ],
                                             [
-                                                "./4d.png"
+                                                "sayuri/4d.png"
                                             ],
-                                            [
-                                                "./5d.png"
-                                            ],
-                                            [
-                                                "./6d.png"
-                                            ]
                                         ]
                                     }
                                 }
