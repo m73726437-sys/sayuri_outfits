@@ -1,12 +1,13 @@
-{
-    "pack": {
+{   
+    "pack": { 
+    "packId": "sayuri_outfits",
         "characters": [
             "Sayuri"
         ],
         "kind": [
             "Characters"
-        ],
-        "dddg2Path": "sayuri_outits/index.json",
+        ], 
+        "dddg2Path": "sayuri_outfits/index.json",
         "description": "[ Created in july 2026 ]",
         "id": "sayuri_outfits",
         "name": "Sayuri",
@@ -14,13 +15,9 @@
             "sayuri/2l.png",
             "sayuri/2r.png",
             "sayuri/sayori/j.png"
-        ],
-        "searchWords": [],
-        "repoUrl": "https://m73726437-sys.github.io/sayuri_outfits/repo.json"
-    },
-    "authors": {
-      "u/hoeruko": {},
-      "Iansuller_blogger": {},
-      "u/itz_matic": {}  
-     }
- }
+        ]
+        ,"searchWords": [],
+        "repoUrl": "https://m73726437-sys.github.io/sayuri_outfits/repo.json" 
+        ,"source": "https://github.com/m73726437-sys/sayuri_outfits.git" 
+      }
+   }  
